@@ -1,0 +1,28 @@
+{
+  "name": "secret-santa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumanthbabu-Muthineni/secret-santa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumanthbabu-Muthineni/secret-santa/issues"
+  },
+  "homepage": "https://github.com/Sumanthbabu-Muthineni/secret-santa#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "papaparse": "^5.5.2"
+  }
+}
