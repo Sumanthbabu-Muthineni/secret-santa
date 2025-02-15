@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Sumanthbabu-Muthineni/secret-santa#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "jest": "^29.7.0",
+    "multer": "^1.4.5-lts.1",
     "papaparse": "^5.5.2"
   }
 }
